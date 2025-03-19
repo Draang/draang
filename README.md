@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-**Desarrollador frontend
+** Desarrollador frontend
 * React
 * React native
 * Sql
